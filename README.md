@@ -35,6 +35,6 @@ pip automatic download & update
 pip install pyinstaller
 ```
 ```
-Convert-system-information-to-CSV-and-send-email-notification.py
+Convert-system-information-to-CSV-and-send-email-notification-Schedule.py
 ```
 This will generate a folder named dist in the current directory containing the packaged executable file.
