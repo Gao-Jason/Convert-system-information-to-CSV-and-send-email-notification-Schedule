@@ -24,7 +24,7 @@ pip install  schedule
 ```
 warning!!
 
-''msvcrt'' is a Windows-specific library used for file locking, which may cause issues if your program runs on other platforms.
+'secure-smtplib'' is a Windows-specific library used for file locking, which may cause issues if your program runs on other platforms.
 
 Additionally, if you intend to use file locking on Windows, smtplib library is an option, but on other platforms, you may need to employ different methods to achieve file locking.
 
